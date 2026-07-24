@@ -4,7 +4,8 @@ This repository contains my solutions for the Deloitte Australia Technology Virt
 
 ## Completed Tasks
 
-- ✅ Task 1 - Data Transformation
+- ✅ Task 1 – Data Transformation
+- ✅ Task 3 – Software Development Proposal
 
 ## Technologies
 
@@ -12,6 +13,8 @@ This repository contains my solutions for the Deloitte Australia Technology Virt
 - JSON
 - unittest
 - datetime
+- Technical Documentation
+- Project Planning
 
 ## Skills Learned
 
@@ -19,3 +22,8 @@ This repository contains my solutions for the Deloitte Australia Technology Virt
 - Data Transformation
 - Python Programming
 - Unit Testing
+- Requirement Analysis
+- Software Development Proposal Writing
+- Technical Documentation
+- Project Planning
+- Client Communication
