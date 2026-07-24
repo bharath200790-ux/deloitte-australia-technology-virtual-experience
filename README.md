@@ -1,2 +1,29 @@
-# Deloitte-Australia-Technology-virtual-experience
-Solutions for Deloitte Australia Technology Virtual Experience (Forage)
+# Deloitte Australia Technology Virtual Experience
+
+This repository contains my solutions for the Deloitte Australia Technology Virtual Experience Program offered by Forage.
+
+## Completed Tasks
+
+- ✅ Task 1 - Data Transformation
+
+## Technologies
+
+- Python
+- JSON
+- unittest
+- datetime
+
+## Skills Learned
+
+- JSON Parsing
+- Data Transformation
+- Python Programming
+- Unit Testing
+
+## Author
+
+Bharath D
+
+B.Tech Information Technology
+
+Hindusthan College of Engineering and Technology
